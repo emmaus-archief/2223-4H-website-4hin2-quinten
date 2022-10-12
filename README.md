@@ -1,3 +1,4 @@
+
 Deze repo is onderdeel van het vak informatica op het Emmauscollege Rotterdam.
 
 [Meer info over deze opdracht](https://informatica.emmauscollege.nl/)
@@ -16,7 +17,7 @@ Werk de planning af van boven naar beneden<br>
 Geef aan met [x] welke onderdelen af zijn
 
 ### Stap 1: Start 
-- [ ] Je hebt het onderwerp van je website gekozen en door je docent laten goedkeuren. 
+- [x] Je hebt het onderwerp van je website gekozen en door je docent laten goedkeuren. 
 - [ ] Je hebt een account aangemaakt op www.github.com.
 - [ ] Je hebt de voorbeeldwebsite van de docent gekopieerd naar je eigen github account. 
 - [ ] Je hebt het onderwerp in de kop op van je homepage gezet.
