@@ -107,3 +107,14 @@ nav li a:hover {
 nav li a.active {
     background-color: skyblue;
 }
+
+.artikel {
+  border:solid 1px black;
+}
+
+.artikel-photo {
+  height:350px;
+  width:230px;
+  float:right;
+  
+}
